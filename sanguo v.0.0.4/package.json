@@ -1,0 +1,1 @@
+{ "name": "sanguo-online", "version": "1.0.0", "private": true, "description": "สามก๊กกลยุทธ์ ออนไลน์", "scripts": { "start": "node server/server.js", "sim": "node test/sim.js 100" }, "engines": { "node": ">=18" } }
